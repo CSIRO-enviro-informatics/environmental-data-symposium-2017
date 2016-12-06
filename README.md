@@ -1,2 +1,3 @@
-# environmental-data-symposium-2017
-Linked Environmental Data and Samples
+# Linked Environmental Data and Samples
+
+github pages website for the Cutting Edge Science Symposium on Linked Environmental Data - 2017
