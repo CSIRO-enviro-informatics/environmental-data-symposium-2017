@@ -1,2 +1,2 @@
 # environmental-data-symposium-2017
-Environmental Data Symposium 2017
+Linked Environmental Data and Samples
